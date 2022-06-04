@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{34CBAE56-4A85-27A4-BD10-43B36F6074AA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "VoxelTerrain",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
